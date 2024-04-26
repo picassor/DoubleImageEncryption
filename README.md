@@ -58,8 +58,5 @@ We need to set up a Flask application with a React frontend to run this applicat
 - To decrypt the page, pass the encrypted hidden image, key, and params that you downloaded. After processing it on the back end, the decrypted image will be shown to you.
   
 ## 🔗 Links
-Github Repo:
-https://github.com/Chirag2203/DoubleImageEncrytion
-
 
 Deployed Site-https://double-image-encrytion.vercel.app/ 
